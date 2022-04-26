@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML basics</title>
+    </head>
+    <body>
+     <h1><strong> Weekly Pricing Scheme</strong></h1>
+     <h2>Information</h2>
+     <p> These are our weekly prices and deals. We update our prices and deals every week.</p>
+     <ul>
+       <li> Dog walking </li>
+       <li> Cat walking</li>
+       <li> Pet sitting servaces</li>
+       </ul>
+    </body>
+</html>
